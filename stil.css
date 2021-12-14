@@ -195,12 +195,9 @@ body {
   transform: translateY(-12rem);
   z-index: -1;
   border-radius: 0 0 200rem 0; }
-
-.illustration-2 {
-  display: none; }
-
-.illustration-3 {
-  display: none; }
+.active{
+  display: none;
+}
 
 /* SECTION DOWNLOAD EXTENSION*/
 /* SECTION DOWNLOAD EXTENSION*/
@@ -235,7 +232,7 @@ body {
 .faq {
   margin-top: 10rem;
   display: grid; }
-  .faq-questions {
+  .faq_questions {
     display: flex;
     justify-content: space-between;
     color: #000;
@@ -246,10 +243,13 @@ body {
       cursor: pointer; }
     .faq-questions-arrow {
       align-self: center; }
-  .faq-answers {
+  .faq_answers {
     color: #9194A2;
     padding-bottom: 1rem;
-    display: none; }
+   }
+   .active{
+     display: none;
+   }
 
 /*FOOTER*/
 /*FOOTER*/
