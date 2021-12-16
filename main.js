@@ -93,11 +93,7 @@ question.forEach(function (faq) {
                     anw.classList.add('active');
                 })
             }
-
-
         })
-
-
     });
 })
 
