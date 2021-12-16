@@ -58,7 +58,6 @@ buttons.forEach(function (btn) {
             content1.classList.add('active')
             content3.classList.remove('active')
 
-
         }
         else if (btn1.classList.contains('clicked')) {
             content2.classList.add('active')

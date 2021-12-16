@@ -1,3 +1,1 @@
-# borisbookmark
-# boris4f
-# bonus4f
+# SimpleBookmarkManager
